@@ -23,11 +23,9 @@ Se Muitos Entrando e Poucos Saindo, então Vagas Cheias
 Se Poucos Entrando e Muitos Saindo, então Vagas Livres
 
 Defuzzificação:
-
 Método do centroide (centroid)
 
 Teste:
-
 Simule diferentes fluxos de entrada/saída e observe o grau de ocupação estimado pelo sistema fuzzy.
 
 🧠 Questão #2 – Estimativa de Tempo de Correção de Provas
